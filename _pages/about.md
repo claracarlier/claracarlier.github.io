@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+## About me
 
 [CV](../files/cv.pdf)
-**test**   
-*iui*  
-oui
