@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Stat Math Appli 2023.**  
-*Finite sample performance of the maximum likelihood estimator in logistic regression*.  
-Fréjus, France, July 2023.  
-[slides]()
+**Statlearn'23**  
+*Calibration of AD/ADAS simulator: ABC method using a surrogate model*  
+SFdS, Montpellier, France, Avril 2023.
+[poster](../files/poster_statlearn.pdf)
 
-**Journées de Statistique 2023**  
-*Finite sample performance of the maximum likelihood estimator in logistic regression*.  
-Université Libre de Bruxelles, Brussels, Belgium, September 2023.
+**Journées MAS 2022**
+*Présentation dans la session Maths-Entreprises*
+Groupe MAS, SMAI, Rouen, France, August 2022.
