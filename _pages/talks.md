@@ -16,5 +16,5 @@ SFdS, Montpellier, France, April 2023.
 [poster](../files/poster_statlearn.pdf)
 
 **Journées MAS 2022**  
-*Présentation dans la session Maths-Entreprises*  
+*Presentation in the Maths-Entreprises session*  
 Groupe MAS, SMAI, Rouen, France, August 2022.
