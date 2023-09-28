@@ -13,7 +13,7 @@ name                     : &name "Clara Carlier"
 description              : &description "PhD student in machine learning @CREST @Renault"
 url                      : https://claracarlierdf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "claracarlierdf/claracarlierdf.github.io"
+repository               : "claracarlierdf/claracarlier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -112,7 +112,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - images
   - files
 exclude:
   - "*.sublime-project"
