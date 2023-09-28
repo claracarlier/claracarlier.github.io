@@ -74,7 +74,7 @@ analytics:
 # Site Author
 author:
   name             : "Clara Carlier"
-  avatar           : 
+  avatar           : "IMG_2306.jpeg"
   bio              : "PhD student in machine learning @CREST @Renault"
   location         : "Paris, France"
   employer         : "CREST and Renault"
@@ -112,6 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - images
   - files
 exclude:
   - "*.sublime-project"
