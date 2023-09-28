@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**DSC 2023 Europe VR**  
+*Construction of a Surrogate Model: Multivariate Time Series Prediction with a Hybrid Model*   
+Driving Simulation Association, Antibes, France, August 2023.  
+[paper](../files/article_dsc_2023.pdf)
