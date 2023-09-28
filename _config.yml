@@ -79,6 +79,9 @@ author:
   location         : "CREST, Palaiseau, France"
   employer         : "Renault, Guyancourt, France"
   email            : "clara.carlier@outlook.fr"
+  github           : "ClaraCarlierDF"
+  linkedin         : "clara-carlier"
+  googlescholar    : "https://scholar.google.com/citations?user=gNUVdOQAAAAJ&hl=fr&authuser=1"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -87,14 +90,11 @@ author:
   flickr           :
   facebook         : # google scholar : 
   foursquare       :
-  github           : "ClaraCarlierDF"
   google_plus      :
-  google_scholar   : "https://scholar.google.com/citations?user=gNUVdOQAAAAJ&hl=fr&authuser=1"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "clara-carlier"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
