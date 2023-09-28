@@ -13,7 +13,7 @@ name                     : &name "Clara Carlier"
 description              : &description "PhD student in machine learning @CREST @Renault"
 url                      : https://claracarlierdf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ClaraCarlierDF/claracarlierdf.github.io"
+repository               : "claracarlierdf/claracarlierdf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,13 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,10 +78,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Paris, France"
   employer         : "CREST and Renault
-  pubmed           : 
-  googlescholar    : 
   email            : "clara.carlier@outlook.fr
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +86,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ClaraCarlierDF"
+  github           : "claracarlierdf"
   google_plus      :
   keybase          :
   instagram        :
@@ -120,9 +110,10 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - files
+  - images
 exclude:
+  - _pages
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
