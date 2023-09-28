@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-**DSC 2023 Europe VR**  
+**Driving Simulation Conference 2023 Europe VR**  
 *Construction of a Surrogate Model: Multivariate Time Series Prediction with a Hybrid Model*  
 Driving Simulation Association, Antibes, France, August 2023.  
 [slides](../files/slides_dsc_2023.pdf)
