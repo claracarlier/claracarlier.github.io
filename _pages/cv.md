@@ -7,3 +7,4 @@ redirect_from:
   - /resume
 ---
 
+[CV](../files/cv.pdf)
