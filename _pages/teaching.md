@@ -23,4 +23,4 @@ author_profile: true
 <span style="font-size:1.2em; ">**Introduction à l'apprentissage statistique**</span>  
 *2022-2024, @ENSAE*  
 <span style="color:grey; font-size:0.8em; ">For third-year students, by Cristina Butucea</span>  
-[poly (FR)](../files/slides_introAS.pdf)
+[slides (FR)](../files/slides_introAS.pdf)
