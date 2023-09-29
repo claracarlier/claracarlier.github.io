@@ -15,7 +15,7 @@ I'm working on the ***Calibration of models to build the digital twin of the aut
 
 Before my PhD, I graduated from the Master 2 in Mathematics of Randomness, specializing in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/), at the Université Paris-Saclay in Orsay, France.  
 
-For more details, see **CV** section.  
+For more details, see [CV](../files/cv.pdf).  
 
 ## Student supervision
 
