@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Driving Simulation Conference 2023 Europe VR
-###### September 6-8, 2023 @Antibes, France
+###### <span style="color:grey">September 6-8, 2023 @Antibes, France</span>.
 **Construction of a Surrogate Model: Multivariate Time Series Prediction with a Hybrid Model**  
 [slides (ENG)](../files/slides_dsc_2023.pdf)
 
