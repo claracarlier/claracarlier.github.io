@@ -26,7 +26,7 @@ For more details, see **CV** section.
 * (2023) International Conference on Machine Learning (ICML)
 * (2023) Neural Information Processing Systems (NeurIPS)
 
-## Awards
+## Award
 
 * DGFiP 2022 Open Data Hackathon Winners, *organized by the french public finance department*, Paris, France
 * (2018-2020) Sophie Germain Excellence Scholarship, *delivered by FMJH and LMH*, Université Paris-Saclay, Orsay, France
