@@ -23,8 +23,8 @@ For more details, see **CV** section.
 
 ## Reviewing service
 
-* International Conference on Machine Learning (ICML) 2023
-* Neural Information Processing Systems (NeurIPS) 2023
+* (2023) International Conference on Machine Learning (ICML)
+* (2023) Neural Information Processing Systems (NeurIPS)
 
 ## Awards
 
