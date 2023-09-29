@@ -10,10 +10,14 @@ author_profile: true
 **Construction of a Surrogate Model: Multivariate Time Series Prediction with a Hybrid Model**  
 [slides (ENG)](../files/slides_dsc_2023.pdf)
 
+***
+
 ### Statlearn'23 by SFdS
 ###### April 5-7, 2023 @Montpellier, France
 **Calibration of AD/ADAS simulator: ABC method using a surrogate model**  
 [poster (ENG)](../files/poster_statlearn.pdf)
+
+---
 
 ### Journées MAS 2022 by MAS Group and SMAI
 ###### August 29-31, 2022 @Rouen, France
