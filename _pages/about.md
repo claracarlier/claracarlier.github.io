@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 
 I'm currently a PhD student on an industrial contract. It's a collaboration between the [CREST-ENSAE](https://crest.science/) laboratory at the *Institut Polytechnique de Paris* and the [Renault group](https://www.renaultgroup.com/). I'm supervised by [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Arnaud Franju](https://www.linkedin.com/in/arnaud-franju-723a611/).  
-I'm working on the ***Calibration of models to build the digital twin of the autonomous vehicle*. It involves various methods such as *supervised learning and classification***, as well as *Bayesian inference* using *Approximate Bayesian Computation methods*.
+I'm working on the ***Calibration of models to build the digital twin of the autonomous vehicle***. It involves various methods such as *supervised learning and classification*, as well as *Bayesian inference* using *Approximate Bayesian Computation methods*.
 
 Before my PhD, I graduated from the Master 2 in Mathematics of Randomness, specializing in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/), at the Université Paris-Saclay in Orsay, France.  
 
