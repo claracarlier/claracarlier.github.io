@@ -28,21 +28,21 @@ For more details, see [CV (FR)](../files/cv.pdf).
 
 ## Award
 
-* (2022) DGFiP Open Data Hackathon Winners, *organized by the french public finance department*, Paris, France
-* (2018-2020) Sophie Germain Excellence Scholarship, *delivered by FMJH and LMH*, Université Paris-Saclay, Orsay, France
+* (2022) [DGFiP Open Data Hackathon](https://hackaton-dgfip-2022.github.io/) **Winners**, *organized by the french public finance department*, Paris, France
+* (2018-2020) [Sophie Germain Excellence Scholarship](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-transverses/le-programme-gradue/candidater-a-une-bourse-sophie-germain/), *delivered by FMJH and LMH*, Université Paris-Saclay, Orsay, France
 
 ## Conferences
 
-* (Dec 2023) Statistical thinking in the age of AI: robustness, fairness and privacy, CIRM, Marseille, France
-* (Sep 2023) Driving Simulation Conference and Europe VR *by DSA*, Antibes, France
-* (Jul 2023) 54èmes Journées de Statistique *by SFdS*, Bruxelles, Belgium
-* (Apr 2023) Statlearn' 23 *by SFdS*, Montpellier, France
-* (Jan 2023) 6ème Journée de Statistique Mathématique *by SFdS*, Paris, France
-* (Aug 2022) Journées MAS *by MAS Group and SMAI*, Rouen, France
+* (Dec 2023) [Statistical thinking in the age of AI: robustness, fairness and privacy](https://conferences.cirm-math.fr/2908.html), CIRM, Marseille, France
+* (Sep 2023) [Driving Simulation Conference and Europe VR](https://dsc2023.org/) *by DSA*, Antibes, France
+* (Jul 2023) [54èmes Journées de Statistique](https://jds2023.sciencesconf.org/) *by SFdS*, Bruxelles, Belgium
+* (Apr 2023) [Statlearn' 23](https://statlearn.sciencesconf.org/) *by SFdS*, Montpellier, France
+* (Jan 2023) [6ème Journée de Statistique Mathématique](https://statmath2023.sciencesconf.org/) *by SFdS*, Paris, France
+* (Aug 2022) [Journées MAS](https://mas2022.sciencesconf.org/) *by MAS Group and SMAI*, Rouen, France
 
 
 ## Volunteering
 
-* (2021-2023) Doctoral student representative on the Hadamard mathematics graduate school (EDMH) board, Orsay, France
+* (2021-2023) Doctoral student representative on the Hadamard mathematics graduate school ([EDMH](https://www.fondation-hadamard.fr/fr/campus-de-paris-saclay/formation/edmh/)) board, Orsay, France
 * (2015-2018) Student representative on the Paris-Sud University bachelor's degree development committee, Orsay, France
-* (2018) In charge of applications for the Data'Bang edition of TEDx Saclay, Orsay, France
+* (2018) In charge of applications for the [Data'Bang edition of TEDx Saclay](https://tedxsaclay.com/fr/editions/data-bang), Orsay, France
