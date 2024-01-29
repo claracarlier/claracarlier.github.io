@@ -33,16 +33,16 @@ For more details, see [CV (FR)](../files/cv.pdf).
 
 ## Conferences
 
-* (Dec 2023) Statistical thinking in the age of AI: robustness, fairness and privacy @CIRM, Marseille, France
-* (Sep 2023) Driving Simulation Conference, Europe VR by DSA @Antibes, France
-* (Jul 2023) 54èmes Journées de Statistique by SFdS @Bruxelles, Belgium
-* (Apr 2023) Statlearn' 23 by SFdS @Montpellier, France
-* (Jan 2023) 6ème Journée de Statistique Mathématique by SFdS @Paris, France
-* (Aug 2022) Journées MAS by MAS Group and SMAI @Rouen, France
+* (Dec 2023) Statistical thinking in the age of AI: robustness, fairness and privacy, CIRM, Marseille, France
+* (Sep 2023) Driving Simulation Conference and Europe VR *by DSA*, Antibes, France
+* (Jul 2023) 54èmes Journées de Statistique *by SFdS*, Bruxelles, Belgium
+* (Apr 2023) Statlearn' 23 *by SFdS*, Montpellier, France
+* (Jan 2023) 6ème Journée de Statistique Mathématique *by SFdS*, Paris, France
+* (Aug 2022) Journées MAS *by MAS Group and SMAI*, Rouen, France
 
 
 ## Volunteering
 
-* (2021-2023) Doctoral student representative on the EDMH board @Orsay, France
-* (2015-2016 and 2017-2018) Student representative on the Paris-Sud University bachelor's degree development committee @Orsay, France
-* (2018) In charge of applications for the Data'Bang edition of TEDx Saclay @Orsay, France
+* (2021-2023) Doctoral student representative on the Hadamard mathematics graduate school (EDMH) board, Orsay, France
+* (2015-2018) Student representative on the Paris-Sud University bachelor's degree development committee, Orsay, France
+* (2018) In charge of applications for the Data'Bang edition of TEDx Saclay, Orsay, France
