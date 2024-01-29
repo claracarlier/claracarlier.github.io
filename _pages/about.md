@@ -30,3 +30,12 @@ For more details, see [CV (FR)](../files/cv.pdf).
 
 * (2022) DGFiP Open Data Hackathon Winners, *organized by the french public finance department*, Paris, France
 * (2018-2020) Sophie Germain Excellence Scholarship, *delivered by FMJH and LMH*, Université Paris-Saclay, Orsay, France
+
+## Conferences
+
+* (Dec 2023) Statistical thinking in the age of AI: robustness, fairness and privacy @CIRM, Marseille, France
+* (Sep 2023) Driving Simulation Conference, Europe VR by DSA @Antibes, France
+* (Jul 2023) 54èmes Journées de Statistique by SFdS @Bruxelles, Belgium
+* (Apr 2023) Statlearn' 23 by SFdS @Montpellier, France
+* (Jan 2023) 6ème Journée de Statistique Mathématique by SFdS @Paris, France
+* (2022) Journées MAS by MAS Group and SMAI @Rouen, France
