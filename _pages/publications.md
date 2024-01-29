@@ -12,3 +12,8 @@ author_profile: true
 [paper (ENG)](../files/article_dsc_2023.pdf)
 
 ***
+
+## In progress
+
+* **Sequential Monte Carlo methods using a surrogate model: an application to calibration of AD/ADAS simulator** in collaboration with Arnaud Franju and Matthieu Lerasle
+* **Function-on-scalar regression** in collaboration with Hugo Chardon
