@@ -28,7 +28,7 @@ For more details, see [CV (FR)](../files/cv.pdf).
 
 ## Award
 
-* (2022) [DGFiP Open Data Hackathon](https://hackaton-dgfip-2022.github.io/) **Winners**, *organized by the french public finance department*, Paris, France
+* (2022) [DGFiP Open Data Hackathon](https://hackaton-dgfip-2022.github.io/) Winners, *organized by the french public finance department*, Paris, France
 * (2018-2020) [Sophie Germain Excellence Scholarship](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-transverses/le-programme-gradue/candidater-a-une-bourse-sophie-germain/), *delivered by FMJH and LMH*, Université Paris-Saclay, Orsay, France
 
 ## Conferences
