@@ -33,7 +33,7 @@ For more details, see [CV (FR)](../files/cv.pdf).
 
 ## Conferences
 
-* (Dec 2023) [Statistical thinking in the age of AI: robustness, fairness and privacy](https://conferences.cirm-math.fr/2908.html), CIRM, Marseille, France
+* (Dec 2023) [Statistical thinking in the age of AI: robustness, fairness and privacy](https://conferences.cirm-math.fr/3087.html), CIRM, Marseille, France
 * (Sep 2023) [Driving Simulation Conference and Europe VR](https://dsc2023.org/) *by DSA*, Antibes, France
 * (Jul 2023) [54èmes Journées de Statistique](https://jds2023.sciencesconf.org/) *by SFdS*, Bruxelles, Belgium
 * (Apr 2023) [Statlearn' 23](https://statlearn.sciencesconf.org/) *by SFdS*, Montpellier, France
