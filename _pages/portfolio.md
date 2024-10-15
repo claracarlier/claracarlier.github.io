@@ -5,7 +5,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-**PhD thesis**
+**Industrial PhD**
+
+![Editing a markdown file for a talk](../images/x22.png)
 
 ***
 
