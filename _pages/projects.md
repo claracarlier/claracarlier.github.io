@@ -16,8 +16,8 @@ author_profile: true
   - <span style="color:grey; font-size:0.8em; ">Write scientific reports and articles for international conferences
   - <span style="color:grey; font-size:0.8em; ">Present results in-house and at conferences
 
-Internship: [report (FR](../files/rapport_stage_renault.pdf) - [slides (FR](../files/slides_stage_renault.pdf)  
-PhD: report (ENG) *incoming* - [slides (ENG)](../files/presentation_these.pdf)
+**Internship:** [report (FR)](../files/rapport_stage_renault.pdf) - [slides (FR)](../files/slides_stage_renault.pdf)  
+**PhD:** report (ENG) *incoming* - [slides (ENG)](../files/presentation_these.pdf)
 
 ***
 
