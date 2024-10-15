@@ -7,7 +7,7 @@ author_profile: true
 
 **PhD thesis**
 
-![image info](../images/exemple_debruitage.png)
+![image info](../images/position_seismes.png =50x)
 
 ***
 
