@@ -11,7 +11,11 @@ author_profile: true
 
 **Atomic-scale denoising of hyperspectral imaging**
 
-<img src="../images/exemple_debruitage.png" alt="test">
+<img 
+  src="../images/exemple_debruitage.png" 
+  alt="denoising example"
+  title="Example of a parameter tuning for image denoising" 
+  height=300 />
 
 ***
 
