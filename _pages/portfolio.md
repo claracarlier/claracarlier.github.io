@@ -7,6 +7,8 @@ author_profile: true
 
 **PhD thesis**
 
+![image info](../images/exemple_debruitage.png)
+
 ***
 
 **Atomic-scale denoising of hyperspectral imaging**
