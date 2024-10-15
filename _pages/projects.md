@@ -12,7 +12,13 @@ author_profile: true
   - <span style="color:grey; font-size:0.8em; ">Implement a Python package available on GitHub</span>
   - <span style="color:grey; font-size:0.8em; ">Communicate results via video and Tableau</span>
 
-[Tableau presentation](https://public.tableau.com/shared/GWRPYTN2D?:display_count=n&:origin=viz_share_link) | [slides (FR)](../files/slides_dgfip.pdf)
+[Tableau presentation](https://public.tableau.com/shared/GWRPYTN2D?:display_count=n&:origin=viz_share_link) - [slides (FR)](../files/slides_dgfip.pdf)
 
 ***
 
+<span style="font-size:1.2em; ">**Earthquake prediction**</span>  
+  - Build a complete and reliable database
+  - Identify the most suitable methods for prediction
+  - Implement a package including all the work involved
+  - Write a report and give an oral presentation
+[report (FR)](../files/seismes_rapport.pdf)
