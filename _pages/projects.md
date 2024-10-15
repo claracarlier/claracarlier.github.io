@@ -19,7 +19,8 @@ author_profile: true
 <span style="font-size:1.2em; ">**Atomic-scale denoising of hyperspectral imaging** (internship)</span>  
 *June-August 2019* | *Solid State Physics Laboratory, CNRS, Orsay*  
   - <span style="color:grey; font-size:0.8em; ">Develop an image and signal denoising solution
-  - <span style="color:grey; font-size:0.8em; ">Communicate with physicists to identify and meet their needs
+  - <span style="color:grey; font-size:0.8em; ">Communicate with physicists to identify and meet their needs  
+[report (FR)](../files/rapport_images.pdf) - [slides (FR)](../files/diapos_images.pdf)
 
 ***
 
