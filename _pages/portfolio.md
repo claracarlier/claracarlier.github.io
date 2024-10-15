@@ -15,7 +15,7 @@ author_profile: true
   src="../images/exemple_debruitage.png" 
   alt="Example of a parameter tuning for image denoising"
   title="Example of a parameter tuning for image denoising" 
-  height=150/>
+  height=70/>
 
 <img 
   src="../images/image_bruitee.PNG" 
@@ -40,23 +40,23 @@ author_profile: true
   src="../images/position_seismes.png" 
   alt="Earthquake location"
   title="Earthquake location" 
-  height=100/>
+  height=50/>
 <img 
   src="../images/histogrammes.png" 
   alt="Earthquake histograms"
   title="Earthquake histograms" 
-  height=100/>
+  height=50/>
 
 <img 
   src="../images/seismes_par_tranche_magn_p.png" 
   alt="Percent of earthquakes by magnitude"
   title="Percent of earthquakes by magnitude" 
-  height=100/>
+  height=50/>
 <img 
   src="../images/seismes_par_tranche_magn.png" 
   alt="Number of earthquakes by magnitude"
   title="Number of earthquakes by magnitude" 
-  height=100/>
+  height=50/>
 
 ***
 
@@ -66,11 +66,11 @@ author_profile: true
   src="../images/x22.png" 
   alt="Example of a time series of electricity consumption"
   title="Example of a time series of electricity consumption" 
-  height=100/>
+  height=50/>
 <img 
   src="../images/x22_gam.png" 
   alt="An example of a prediction of an electricity consumption with a  GAM model"
   title="An example of a prediction of an electricity consumption with a  GAM model" 
-  height=100/>
+  height=50/>
 
 ***
