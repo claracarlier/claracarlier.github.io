@@ -13,9 +13,21 @@ author_profile: true
 
 <img 
   src="../images/exemple_debruitage.png" 
-  alt="denoising example"
+  alt="Example of a parameter tuning for image denoising"
   title="Example of a parameter tuning for image denoising" 
-  height=300 />
+  height=200/>
+
+<img 
+  src="../images/image_bruitee.PNG" 
+  alt="A noisy hyperspectral image"
+  title="A noisy hyperspectral image" 
+  height=200/>
+
+<img 
+  src="../images/image_debruitee.PNG" 
+  alt="A denoised hyperspectral image"
+  title="A denoised hyperspectral image" 
+  height=200/>
 
 ***
 
