@@ -5,6 +5,22 @@ permalink: /projects/
 author_profile: true
 ---
 
+<span style="font-size:1.2em; ">**Calibration of complex system models for the construction of the digital twin of the autonomous vehicle**</span>  
+*May 2021 - September 2024* | *Industrial PhD between Renault group and CREST laboratory, ENSAE, IPP*
+  - <span style="color:grey; font-size:0.8em; ">Manage a project combining academic and industrial objectives
+  - <span style="color:grey; font-size:0.8em; ">Implement and develop an innovative and efficient solution
+  - <span style="color:grey; font-size:0.8em; ">Build generative neural networks for time series prediction
+  - <span style="color:grey; font-size:0.8em; ">Monitor scientific and technological developments
+  - <span style="color:grey; font-size:0.8em; ">Supervise a student on an end-of-study internship
+  - <span style="color:grey; font-size:0.8em; ">Collaborate with engineers and propose solutions
+  - <span style="color:grey; font-size:0.8em; ">Write scientific reports and articles for international conferences
+  - <span style="color:grey; font-size:0.8em; ">Present results in-house and at conferences
+
+Internship: [report (FR](../files/rapport_stage_renault.pdf) - [slides (FR](../files/slides_stage_renault.pdf)  
+PhD: report (ENG) *incoming* - [slides (ENG)](../files/presentation_these.pdf)
+
+***
+
 <span style="font-size:1.2em; ">**Hackathon Open Data DGFiP 2022**</span>  
 *Winning team*  
   - <span style="color:grey; font-size:0.8em; ">Analyze the coverage of the territory by DGFiP structures</span>  
