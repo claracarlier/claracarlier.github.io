@@ -15,7 +15,7 @@ author_profile: true
   src="../images/exemple_debruitage.png" 
   alt="Example of a parameter tuning for image denoising"
   title="Example of a parameter tuning for image denoising" 
-  height=10/>
+  height=1/>
 
 <img 
   src="../images/image_bruitee.PNG" 
