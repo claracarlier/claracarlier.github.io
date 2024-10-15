@@ -11,6 +11,8 @@ author_profile: true
 
 **Atomic-scale denoising of hyperspectral imaging**
 
+<img src="../images/exemple_debruitage.png" alt="test">
+
 ***
 
 **Hackathon Open Data DGFiP 2022**
