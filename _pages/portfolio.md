@@ -7,7 +7,7 @@ author_profile: true
 
 **Industrial PhD**
 
-![Editing a markdown file for a talk](../images/x22.png)
+
 
 ***
 
