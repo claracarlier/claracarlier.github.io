@@ -7,7 +7,11 @@ author_profile: true
 
 **Industrial PhD**
 
+![Time series that fit better with inferred parameters](../images/inference-justification.png)
 
+![LSTM architecture to generate whole time series](../images/multilstm_archi.png)
+
+![CNN architecture to generate whole time series](../images/cnn_archi.png)
 
 ***
 
