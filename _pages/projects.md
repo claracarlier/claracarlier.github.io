@@ -17,8 +17,17 @@ author_profile: true
 ***
 
 <span style="font-size:1.2em; ">**Earthquake prediction**</span>  
-  - Build a complete and reliable database
-  - Identify the most suitable methods for prediction
-  - Implement a package including all the work involved
-  - Write a report and give an oral presentation
+  - <span style="color:grey; font-size:0.8em; ">Build a complete and reliable database</span>
+  - <span style="color:grey; font-size:0.8em; ">Identify the most suitable methods for prediction</span>
+  - <span style="color:grey; font-size:0.8em; ">Implement a package including all the work involved</span>
+  - <span style="color:grey; font-size:0.8em; ">Write a report and give an oral presentation</span>
+
 [report (FR)](../files/seismes_rapport.pdf)
+
+***
+
+<span style="font-size:1.2em; ">**Kaggle competition to predict electricity consumption**</span>
+  - <span style="color:grey; font-size:0.8em; ">Clean up and format the database supplied by EDF</span>
+  - <span style="color:grey; font-size:0.8em; ">Identify and test high-performance methods for predicting electricity consumption</span>
+
+[report (FR)](../files/kaggle_rapport.html) - [slides (FR)](../files/diapos_kaggle.pdf)
