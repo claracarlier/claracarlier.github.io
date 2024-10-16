@@ -15,7 +15,37 @@ The PhD was about ***Calibration of models to build the digital twin of the auto
 
 Before my PhD, I graduated from the Master 2 in Mathematics of Randomness, specializing in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/), at the Université Paris-Saclay in Orsay, France.  
 
-For more details, see [short CV (FR)](../files/cv_1_page.pdf) or [long CV (FR)](../files/cv.pdf).  
+For more details, see [short CV (FR)](../files/cv_1_page.pdf) or [long CV (FR)](../files/cv.pdf). 
+
+## Skills
+
+### Hard skills
+
+* **Programming languages**
+  * Python : NumPy, Pandas, Scikit Learn, Plotly, TensorFlow, Keras, Matplotlib, SciPy, PySpark
+  * R : dplyr, ggplot2, tidymodels, RMarkdown
+  * Matlab
+  * C++
+  * LateX
+* **Development environments:** Databricks, Jupyter Notebook, Spyder, Anaconda
+* **Methodologies**
+  * Data analysis and visualization : Python, Tableau
+  * Advanced statistical modeling: sensitivity analysis
+  * Dimension reduction: classical, sparse or functional PCA
+  * **Machine Learning:** construction of predictive models, classification and regression, supervised and unsupervised learning
+  * **Deep Learning:** design and training of neural networks (CNN and LSTM)
+  * **Bayesian inference:** ABC methods, SMC samplers
+  * Image and signal denoising: BM3D 
+  * Optimization problem solving: gradient descent, PGD, MGD, stochastic
+  * Release management: GitHub
+
+### Soft skills
+
+* **Complex project management:** from design to implementation, respecting time and resource constraints
+* **Autonomy and interpersonal skills:** work independently while collaborating effectively with multidisciplinary teams
+* **Scientific communication:** present complex results clearly to both technical and non-technical audiences
+* **Documentation and technology watch:** keep abreast of the latest scientific advances and integrate them into practical projects
+* **Self-training:** curiosity and constant commitment to keeping up to date with new technologies, ability to quickly learn new tools and methodologies
 
 ## Student supervision
 
