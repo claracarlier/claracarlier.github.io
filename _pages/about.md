@@ -15,7 +15,7 @@ The PhD was about ***Calibration of models to build the digital twin of the auto
 
 Before my PhD, I graduated from the Master 2 in Mathematics of Randomness, specializing in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/), at the Université Paris-Saclay in Orsay, France.  
 
-For more details, see [short CV (FR)](../files/cv_1_page.pdf) or [long CV (FR)](../files/cv.pdf). 
+For more details, see [CV (FR)](../files/cv.pdf). 
 
 ## Skills
 
