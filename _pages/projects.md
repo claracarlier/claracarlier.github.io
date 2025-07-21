@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# PhD
+## PhD
 
 <span style="font-size:1.2em; ">**Calibration of complex system models for the construction of the digital twin of the autonomous vehicle**</span>  
 *May 2021 - September 2024* | *Industrial PhD between Renault group and CREST laboratory, ENSAE, IPP*
@@ -32,9 +32,9 @@ author_profile: true
 
 ***
 
-# Second year of master
+## Second year of master
 
-<span style="font-size:1.2em; ">**Earthquake prediction**</span>  
+<span style="font-size:1.2em; ">**Earthquake prediction project**</span>  
   * <span style="color:grey; font-size:0.8em; ">Build a complete and reliable database</span>
   * <span style="color:grey; font-size:0.8em; ">Identify the most suitable methods for prediction</span>
   * <span style="color:grey; font-size:0.8em; ">Implement a package including all the work involved</span>
@@ -44,7 +44,7 @@ author_profile: true
 
 ***
 
-# First year of master
+## First year of master
 
 <span style="font-size:1.2em; ">**Internship - Atomic-scale denoising of hyperspectral imaging**</span>  
 *June-August 2019* | *Solid State Physics Laboratory, CNRS, Orsay*  
