@@ -11,6 +11,12 @@ author_profile: true
 <span style="color:lightgrey; font-size:0.8em; ">Volume 8, pages 143-149</span>  
 [paper (ENG)](../files/article_dsc_2023.pdf)
 
+<span style="font-size:1.2em; ">**Inversion detection in CoFe_2 O_4 spinels by EELS and BM3D analysis**</span>  
+*JEELS 2020 - Materials Science and Advances in Image & Signal Processing*  
+<span style="color:grey; font-size:0.8em; ">September 2021</span>  
+<span style="color:lightgrey; font-size:0.8em; "></span>  
+[paper (ENG)](../files/Poster_JEELS_spinels.pdf)
+
 ***
 
 ## In preparation
