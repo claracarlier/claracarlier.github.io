@@ -21,4 +21,4 @@ author_profile: true
 ## In preparation
 
 * **Sequential Monte Carlo methods using a surrogate model** in collaboration with Arnaud Franju and Matthieu Lerasle, *soon on arXiv*
-* **Function-on-scalar regression** in collaboration with Hugo Chardon, *soon on arXiv*
+* **Function-on-scalar regression** in collaboration with Hugo Chardon and Etienne Donier-Meroz, *soon on arXiv*
