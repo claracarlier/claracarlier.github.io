@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+# PhD
+
 <span style="font-size:1.2em; ">**Calibration of complex system models for the construction of the digital twin of the autonomous vehicle**</span>  
 *May 2021 - September 2024* | *Industrial PhD between Renault group and CREST laboratory, ENSAE, IPP*
   * <span style="color:grey; font-size:0.8em; ">Manage a project combining academic and industrial objectives
@@ -19,8 +21,6 @@ author_profile: true
 **Internship:** [report (FR)](../files/rapport_stage_renault.pdf) - [slides (FR)](../files/slides_stage_renault.pdf)  
 **PhD:** [report (ENG)](https://theses.hal.science/tel-04904658/file/134050_CARLIER_2024_archivage.pdf) - [slides (ENG)](../files/presentation_these.pdf)
 
-***
-
 <span style="font-size:1.2em; ">**Hackathon Open Data DGFiP 2022**</span>  
 *Winning team*  
   * <span style="color:grey; font-size:0.8em; ">Analyze the coverage of the territory by DGFiP structures</span>  
@@ -32,14 +32,7 @@ author_profile: true
 
 ***
 
-<span style="font-size:1.2em; ">**Atomic-scale denoising of hyperspectral imaging** (internship)</span>  
-*June-August 2019* | *Solid State Physics Laboratory, CNRS, Orsay*  
-  * <span style="color:grey; font-size:0.8em; ">Develop an image and signal denoising solution
-  * <span style="color:grey; font-size:0.8em; ">Communicate with physicists to identify and meet their needs
-
-[report (FR)](../files/rapport_images.pdf) - [slides (FR)](../files/diapos_images.pdf)
-
-***
+# Second year of master
 
 <span style="font-size:1.2em; ">**Earthquake prediction**</span>  
   * <span style="color:grey; font-size:0.8em; ">Build a complete and reliable database</span>
@@ -50,6 +43,15 @@ author_profile: true
 [report (FR)](../files/seismes_rapport.pdf)
 
 ***
+
+# First year of master
+
+<span style="font-size:1.2em; ">**Internship - Atomic-scale denoising of hyperspectral imaging**</span>  
+*June-August 2019* | *Solid State Physics Laboratory, CNRS, Orsay*  
+  * <span style="color:grey; font-size:0.8em; ">Develop an image and signal denoising solution
+  * <span style="color:grey; font-size:0.8em; ">Communicate with physicists to identify and meet their needs
+
+[report (FR)](../files/rapport_images.pdf) - [slides (FR)](../files/diapos_images.pdf)
 
 <span style="font-size:1.2em; ">**Kaggle competition to predict electricity consumption**</span>
   * <span style="color:grey; font-size:0.8em; ">Clean up and format the database supplied by EDF</span>
