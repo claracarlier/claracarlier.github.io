@@ -17,7 +17,7 @@ author_profile: true
   * <span style="color:grey; font-size:0.8em; ">Present results in-house and at conferences
 
 **Internship:** [report (FR)](../files/rapport_stage_renault.pdf) - [slides (FR)](../files/slides_stage_renault.pdf)  
-**PhD:** report (ENG) *incoming* - [slides (ENG)](../files/presentation_these.pdf)
+**PhD:** [report (ENG)](https://theses.hal.science/tel-04904658/file/134050_CARLIER_2024_archivage.pdf) - [slides (ENG)](../files/presentation_these.pdf)
 
 ***
 
