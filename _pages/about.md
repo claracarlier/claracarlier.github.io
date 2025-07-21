@@ -10,7 +10,9 @@ redirect_from:
 
 ## About me
 
-I've just finished my industrial PhD. It was a collaboration between the [CREST-ENSAE](https://crest.science/) laboratory at the *Institut Polytechnique de Paris* and the [Renault group](https://www.renaultgroup.com/). I was supervised by [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Arnaud Franju](https://www.linkedin.com/in/arnaud-franju-723a611/).  
+I'm currently working as a research engineer in statistics and data science at the [*Laboratoire national de métrologie et d'essais*](https://www.lne.fr/) (LNE) in Trappes (78). I am part of the [Data Science and Uncertainty](https://www.lne.fr/fr/assistance-technique/traitement-donnees) division.
+
+Previously, I've finished my industrial PhD. It was a collaboration between the [CREST-ENSAE](https://crest.science/) laboratory at the *Institut Polytechnique de Paris* and the [Renault group](https://www.renaultgroup.com/). I was supervised by [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Arnaud Franju](https://www.linkedin.com/in/arnaud-franju-723a611/).  
 The PhD was about **Calibration of models to build the digital twin of the autonomous vehicle**. It involved various methods such as *supervised learning and classification*, as well as *Bayesian inference* using *Approximate Bayesian Computation methods*.
 
 Before my PhD, I graduated from the Master 2 in Mathematics of Randomness, specializing in [Statistics and Machine Learning](https://master-statml.imo.universite-paris-saclay.fr/), at the Université Paris-Saclay in Orsay, France.  
