@@ -15,7 +15,7 @@ author_profile: true
 *JEELS 2020 - Materials Science and Advances in Image & Signal Processing*  
 <span style="color:grey; font-size:0.8em; ">September 2021</span>  
 <span style="color:lightgrey; font-size:0.8em; "></span>  
-[paper (ENG)](../files/Poster_JEELS_spinels.pdf)
+[paper (ENG)](../files/Poster_JEELS_spinels.pdf) - [abstract (ENG)](../files/jeels2020_abtract.pdf)
 
 ***
 
